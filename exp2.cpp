@@ -24,3 +24,14 @@ void loop() {
 
   delay(1000);
 }
+
+
+// PIR sensor pin	Arduino Uno
+// VCC	5V
+// GND	GND
+// OUT / Signal	Digital pin 2
+
+// LED connections
+// LED terminal	Arduino Uno
+// Anode (+), longer leg	Pin 13 through 220Ω resistor
+// Cathode (−), shorter leg	GND
