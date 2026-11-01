@@ -26,3 +26,8 @@ void loop() {
 
   delay(500);
 }
+
+
+// Click the GND pin of the potentiometer and connect it to ESP32 GND.
+// Connect SIG to GPIO 34.
+// Connect VCC to ESP32 3V3.
