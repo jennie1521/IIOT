@@ -60,3 +60,11 @@ void loop() {
 // VCC	3.3V
 // Middle pin	GPIO 34
 // GND	GND
+
+
+// Aim: Write a program for sending sensor data to the cloud and displaying on web page.  
+// Software Requirement: Arduino IDE  
+// Hardware Requirement: ESP-WROOM 32 board, Micro USB Data Cable, bread board, Potentiometer 10K,
+//   Male to female wires, Laptop/PC.  
+// Theory: The program is for an ESP32-based microcontroller and is designed to create a simple web server.
+// It reads the value from a potentiometer and displays that value on a webpage hosted by the ESP32.  
