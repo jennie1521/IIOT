@@ -107,3 +107,11 @@ void loop() {
 // LED 1 cathode (-)	GND
 // LED 2 anode (+)	GPIO 14 through 220Ω resistor
 // LED 2 cathode (-)	GND
+
+// Aim: Write a Program to design and develop a user interface for monitoring and controlling CPS system    
+// Software Requirement: Arduino IDE  
+// Hardware Requirement: ESP-WROOM 32 board, Micro USB Data Cable, bread board, Resistor (220 ꭥ),
+//   Male to female wires, Laptop/PC, LED Lights, Jumper wires.  
+// Theory:  Cyber-Physical Systems: CPS refers to systems that integrate physical processes with computer-based control and monitoring.
+// These systems can be found in various applications, such as industrial automation, autonomous vehicles, smart cities, and more.
+//   CPS combines real-world, physical components with computational elements to make decisions and control actions.  
